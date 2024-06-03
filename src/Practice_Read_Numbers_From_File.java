@@ -14,7 +14,7 @@ public class Practice_Read_Numbers_From_File {
             System.out.println("Toplam: " + sum); // Sonuç
         }
         catch (Exception e) { // Hataların yakalanması ve hata mesajının alınması için oluşturulan catch bloğu
-            e.getMessage()();
+            e.getMessage();
         }
 
     }
