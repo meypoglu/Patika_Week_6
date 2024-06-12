@@ -3,7 +3,7 @@ import java.sql.*;
 public class Practice_Databases {
     public static final String DB_URL = "jdbc:postgresql://localhost/test";
     public static final String DB_USERNAME = "postgres";
-    public static final String DB_PASSWORD = "Ithilwen3-";
+    public static final String DB_PASSWORD = "12345678";
 
     public static void main(String[] args) {
         Connection conn;
